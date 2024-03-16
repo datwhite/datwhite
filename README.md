@@ -14,15 +14,14 @@ Here are some ideas to get you started:
 -->
 
 ### Hi, I'm Artyom
-
 I'm a 24-year-old Fullstack QA
 
-### Toolbox
+## Toolbox
 
-**Fronted development:** Vue.js
+**Fronted development:** `Vue.js`
 
-**Backend development:** Java+Spring
+**Backend development:** `Java+Spring`
 
-**Testing:** Junit5, TestNG, RESTAssured, Selenide
+**Testing:** `Junit5`, `TestNG`, `RESTAssured`, `Selenide`
 
-**Version control:** Git, GitLab, GitHub
+**Version control:** `Git`, `GitLab`, `GitHub`
