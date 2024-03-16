@@ -13,5 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi, I'm Artyom
+## Hi, I'm Artyom
 I'm a 24-year-old Fullstack QA
+
+## Toolbox
+**Fronted development:** Vue.js
+**Backend development:** Java+Spring
+**Testing:** Junit5, TestNG, RESTAssured, Selenide
+**Version control:** Git, GitLab, GitHub
