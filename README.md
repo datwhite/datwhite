@@ -22,6 +22,6 @@ I'm a 24-year-old Fullstack QA
 
 **Backend development:** `Java+Spring`
 
-**Testing:** `Junit5`, `TestNG`, `RESTAssured`, `Selenide`
+**Testing:** `Junit5`, `TestNG`, `REST Assured`, `Selenide`
 
 **Version control:** `Git`, `GitLab`, `GitHub`
