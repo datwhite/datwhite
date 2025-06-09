@@ -18,10 +18,14 @@ I'm a 24-year-old Fullstack QA
 
 ## Toolbox
 
+**Programming languages:** `Java`, `JavaScript`
+
 **Fronted development:** `Vue.js`
 
-**Backend development:** `Java+Spring`
+**Backend development:** `Spring`
 
-**Testing:** `Junit5`, `TestNG`, `REST Assured`, `Selenide`
+**Testing:** `JUnit`, `TestNG`, `REST Assured`, `Selenide`, `Allure`
 
 **Version control:** `Git`, `GitLab`, `GitHub`
+
+**CI/CD:** `GitLab CI`, `Jenkins`
